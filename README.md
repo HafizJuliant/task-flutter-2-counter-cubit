@@ -1,16 +1,6 @@
 # counter_cubit
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/d434bb1a-538f-4a80-b024-f5c5f7668fcd)
+![2](https://github.com/user-attachments/assets/c6a726f2-d4ed-4c73-8c8f-29d6401887f9)
+![3](https://github.com/user-attachments/assets/025399ea-4bbd-455f-be23-608b4e81441e)
+![4](https://github.com/user-attachments/assets/6891d40f-8f62-45eb-966b-a2432a8e6cf8)
